@@ -1,0 +1,12 @@
+.Body{
+  background-color: white;
+  border-radius: 20px;
+  padding: 10px 30px;
+  margin: 20px 0;
+}
+
+.Cards {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
