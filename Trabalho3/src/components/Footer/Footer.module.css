@@ -1,0 +1,12 @@
+.body {
+  background-color: dimgray;
+  margin-top:auto; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 0;
+}
+
+.direitos {
+  color: white;
+}

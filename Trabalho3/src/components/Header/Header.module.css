@@ -1,0 +1,49 @@
+.body {
+  background-color: dimgray;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.logo{
+  width: 30px;
+}
+
+.logoFundo{
+  margin-right: 10px;
+  width: 30px;
+  height: 30px;
+  background-color: white;
+  border-radius: 100%;
+}
+
+.headerLeft {
+  margin-left: 10px;
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.headerRight {
+  display: flex;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+ul, li {
+  display: inline;
+}
+
+li {
+  margin-right: 10px;
+}
+
+ul li a:hover {
+  color: #dbdbdb;
+  border-bottom:3px solid #ffffff;
+}

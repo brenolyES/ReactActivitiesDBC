@@ -1,0 +1,22 @@
+.body{
+  background-color: white;
+  border-radius: 20px;
+  padding: 10px 30px;
+  margin: 20px 0;
+}
+
+.container {
+  width: 1200px;
+  margin: auto;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.body p {
+  text-align: justify;
+  margin: 20px 0;
+}
